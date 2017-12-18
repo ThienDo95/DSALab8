@@ -1,0 +1,114 @@
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+4
+Found at index : 0
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+9
+Found at index : 1
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+15
+Found at index : 2
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+24
+24 is not exist in list.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+4
+Found at index : 0
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 
+
+4
+Enter an item you want to search: 
+15
+Found at index : 2
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item from list
+3. Get item from list
+4. Search for a specific item in the list
+5. Clear list
+6. Print size and content of list
+7. Exit Program
+                       
+Choose your option: 

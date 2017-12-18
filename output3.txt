@@ -1,0 +1,251 @@
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Please
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Professor H.
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+No
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+More
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Redo
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+It
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Traumatizes
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+Me
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+1
+You are now inserting an item into the list.
+Enter item:
+:(
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+5
+Your list has: 9 item(s)
+:( It Me More No Please Professor H. Redo Traumatizes 
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Enter a the index of an item you want to search: 
+1
+1 is inserted at 0 to main lex order
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Enter a the index of an item you want to search: 
+Please
+Please is inserted at 5 to main lex order
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Enter a the index of an item you want to search: 
+:(
+:( is inserted at 0 to main lex order
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Enter a the index of an item you want to search: 
+No
+No is inserted at 4 to main lex order
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+3
+Enter a the index of an item you want to search: 
+more
+more is inserted at 9 to main lex order
+
+Application's Options: 
+                       
+1. Insert item to list
+2. Remove item in specified position in the list
+3. Search for a specific item in the list
+4. Clear list
+5. Print size and content of list
+6. Exit Program
+                       
+Choose your option: 
+
+6
